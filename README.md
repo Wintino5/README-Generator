@@ -7,7 +7,7 @@ In this challenge we use Node JS to create a README Generator. By installing inq
 
 ## Repository
 
-Link to video demo: https://drive.google.com/file/d/1tIx1HhhKeKQrbeiVgw04h08G0xfRjUUd/view?usp=sharing
+Link to video demo: https://drive.google.com/file/d/1o8pBcAWwfLj1K1MrClGezUtH7d2j7B0j/view
 
 ## Technologies
 
